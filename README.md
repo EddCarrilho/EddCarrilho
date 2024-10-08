@@ -8,5 +8,5 @@
 
 ## Meu contato:
 
-            <i class="devicon-linkedin-plain colored"></i>
+<i class="devicon-linkedin-plain colored"></i>
           
