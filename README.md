@@ -17,4 +17,9 @@
   <img align="right" alt="Eduardo-top" src="https://github.com/user-attachments/assets/bbd80aea-a822-4f32-8e96-c25983c95b15" alt="codigo git" width="150">
 </div>
 
-          
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/eduardo-carrilho-b2830b271/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:eduardo.carrilhoest@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
